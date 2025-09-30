@@ -1,0 +1,19 @@
+{
+    "build":[
+        {
+            "src":"Greatkart/wsgi.py",
+            "use":"@vercel/python",
+            "config":{
+                "maxLambdaSize":"15mb",
+                "runtime":"Python 3.13.1"
+            }
+
+        }
+    ],
+    "routes": [
+      {
+        "src":"/(.*)",
+        "dest":"Greatkart/wsgi.py"
+      }
+    ]
+}
