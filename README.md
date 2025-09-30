@@ -3,4 +3,4 @@ Home page
 ![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/6d76a5efb3194f09e5f55423ea9b76ae9a3ca4fd/ecc1.png)
 
 
-
+![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/bd5b968f65bcce937ed454ee3613ba2d6e37c757/ec8.png)
