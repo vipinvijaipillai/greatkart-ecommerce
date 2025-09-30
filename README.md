@@ -23,4 +23,21 @@ Sign In
 ![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/913df5ca6d31fef32a8c65f084cd5e2b11e02046/ec6.png)
 
 
+
+
+
+
+Add to cart
+
 ![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/722767825e30b41438901c79d9a6d122d2233fc5/ecc3.png)
+
+
+Cart details
+
+![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/a476d8a97dd8a183a096efc90c8508bc7a21a524/ec4.png)
+
+
+
+
+
+
