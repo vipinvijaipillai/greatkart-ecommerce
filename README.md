@@ -5,11 +5,22 @@ Home page
 
 ![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/bd5b968f65bcce937ed454ee3613ba2d6e37c757/ec8.png)
 
+
+
+
+
 Sign Up
 
 ![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/d2f2643901f86e2b8b1c034d6e9eb501143e060f/ec7.png)
 
 
+
+
+
+
 Sign In
 
 ![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/913df5ca6d31fef32a8c65f084cd5e2b11e02046/ec6.png)
+
+
+![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/722767825e30b41438901c79d9a6d122d2233fc5/ecc3.png)
