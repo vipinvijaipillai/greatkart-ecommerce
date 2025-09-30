@@ -4,5 +4,3 @@ Home page
 
 
 
-![image alt](![image alt](https://github.com/vipinvijaipillai/greatkart-ecommerce/blob/d07261f9d54df061c3dfb6709a393722fd8e60ac/ecc2.png)
-
